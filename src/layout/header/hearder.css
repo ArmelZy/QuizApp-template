@@ -1,0 +1,29 @@
+.app-name {
+    margin-top: 1.2rem;
+    font-weight: bold;
+}
+.p-menubar {
+    background: white !important;
+    padding-bottom: 0 !important;
+}
+
+.p-tabmenu .p-tabmenu-nav .p-tabmenuitem .p-menuitem-link {
+    padding-bottom: 1.7rem !important;
+    border: solid #ffffff;
+    border-width: 0 0 2px 0;
+    border-color: transparent transparent #ffffff transparent;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .app-logo {
+        animation: app-logo-spin infinite 20s linear;
+    }
+}
+@keyframes app-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

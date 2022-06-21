@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "10001",
+      "question": "How many fingers do you have?",
+      "answer": "Five"
+    },
+    {
+      "id": "10002",
+      "question": "What is the name of your planet?",
+      "answer": "Earth"
+    },
+    {
+      "id": "10003",
+      "question": "What is the result of 1+1?",
+      "answer": "2"
+    }
+  ]
+}
